@@ -1,4 +1,27 @@
+<p align="center">
+    <img src="https://github.com/anambrur/anambrur/blob/main/github-header-image%20(2).png" alt="Web Developer" width="100%"/>
+</p>
 
+<h1 align="center">Hi there 👋, I'm Mashruf Ahmed</h1>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
+
+
+---
+
+### 🙋‍♂️ About Me
+I’m Mashruf Ahmed, a passionate and self-motivated web developer with skills in React and Node.js. I enjoy building modern, responsive, and user-friendly web applications. I have experience working with APIs, databases, and writing clean, maintainable code. I’m always eager to learn new technologies and improve my development workflow. I can work well both independently and as part of a team. My goal is to contribute to real-world projects, continually grow, and solve problems using technology.
+---
+
+### 🌟 Key Highlights
+- 💼 **Currently working at:** Next Page Technology Limited
+- 🌱 **Always learning:** Exploring **Next.js**, **TypeScript**.
+- 💬 **Ask me about:** Web development, Backend logic, and best coding practices.
+- 🎯 **Passion:** Building user-friendly and scalable web applications.
+- 🌟 **Fun fact:** I enjoy debugging more than coding—it feels like solving a mystery!
+- 📊 **Coding Experience:** 1+ years of professional development experience.
+- 🚀 **Specialized in:** Next.js, React, Express.js development.
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahinnlc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mashruf-ahmed-9b50612a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mashrufahmed95@gmail.com) 
 
