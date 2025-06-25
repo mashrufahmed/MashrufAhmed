@@ -9,7 +9,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-I’m Mashruf Ahmed, a passionate and self-motivated web developer with skills in React and Node.js. I enjoy building modern, responsive, and user-friendly web applications. I have experience working with APIs, databases, and writing clean, maintainable code. I’m always eager to learn new technologies and improve my development workflow. I can work well both independently and as part of a team. My goal is to contribute to real-world projects, continually grow, and solve problems using technology.
+** I’m Mashruf Ahmed, a passionate and self-motivated web developer with skills in React and Node.js. I enjoy building modern, responsive, and user-friendly web applications. I have experience working with APIs, databases, and writing clean, maintainable code. I’m always eager to learn new technologies and improve my development workflow. I can work well both independently and as part of a team. My goal is to contribute to real-world projects, continually grow, and solve problems using technology.
 ---
 
 ### 🌟 Key Highlights
