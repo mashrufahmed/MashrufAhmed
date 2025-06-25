@@ -1,25 +1,27 @@
 <p align="center">
-    <img src="https://github.com/anambrur/anambrur/blob/main/github-header-image%20(2).png" alt="Web Developer" width="100%"/>
+  <img src="https://github.com/anambrur/anambrur/blob/main/github-header-image%20(2).png" alt="Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mashruf Ahmed</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-
 ---
 
 ### 🙋‍♂️ About Me
-** I’m Mashruf Ahmed, a passionate and self-motivated web developer with skills in React and Node.js. I enjoy building modern, responsive, and user-friendly web applications. I have experience working with APIs, databases, and writing clean, maintainable code. I’m always eager to learn new technologies and improve my development workflow. I can work well both independently and as part of a team. My goal is to contribute to real-world projects, continually grow, and solve problems using technology.
+
+I’m **Mashruf Ahmed**, a self-driven and enthusiastic full-stack web developer with hands-on experience in **React** and **Node.js**. I specialize in building modern, responsive, and scalable web applications with clean and maintainable code. I enjoy working with REST APIs, managing databases, and implementing efficient backend logic. I thrive in both collaborative teams and independent roles. Constant learning and solving real-world problems through technology are what keep me motivated every day.
+
 ---
 
 ### 🌟 Key Highlights
-- 💼 **Currently working at:** Next Page Technology Limited
-- 🌱 **Always learning:** Exploring **Next.js**, **TypeScript**.
-- 💬 **Ask me about:** Web development, Backend logic, and best coding practices.
-- 🎯 **Passion:** Building user-friendly and scalable web applications.
-- 🌟 **Fun fact:** I enjoy debugging more than coding—it feels like solving a mystery!
-- 📊 **Coding Experience:** 1+ years of professional development experience.
-- 🚀 **Specialized in:** Next.js, React, Express.js development.
+
+- 💼 **Current Role:** Full Stack Developer at *Next Page Technology Limited*
+- 🌱 **Currently Exploring:** **Next.js**, **TypeScript**
+- 💬 **Ask Me About:** Frontend architecture, backend logic, clean coding, and web best practices
+- 🎯 **What I Love:** Creating smooth, user-centric interfaces and solving technical challenges
+- 🔍 **Fun Fact:** I enjoy debugging more than coding—it’s like solving a real-life puzzle!
+- 📊 **Experience:** 1+ years of professional full-stack development
+- 🚀 **Tech Stack:** Specializing in **React**, **Next.js**, **Node.js**, **Express.js**
 
 ---
 ## 🌐 Socials:
