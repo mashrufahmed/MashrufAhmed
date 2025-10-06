@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mashruf-Ahmed55/Mashruf-Ahmed55/blob/main/Richard%20Sanchez.png" alt="Web Developer" width="100%" />
+  <img src="https://github.com/MashrufAhmed/MashrufAhmed/blob/main/Richard%20Sanchez.png" alt="Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mashruf Ahmed</h1>
